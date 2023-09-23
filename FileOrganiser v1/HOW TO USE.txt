@@ -1,0 +1,5 @@
+Put all of your files in the ./Files/ Folder
+(Dont put them in the subfolders)
+
+Afterwards you open the File Organiser
+And you press the "Start organising button"
